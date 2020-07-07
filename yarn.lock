@@ -535,9 +535,9 @@ electron-publish@22.1.0:
     mime "^2.4.4"
 
 electron@^7.0.0:
-  version "7.0.1"
-  resolved "https://registry.npm.taobao.org/electron/download/electron-7.0.1.tgz?cache=0&sync_timestamp=1572679317846&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felectron%2Fdownload%2Felectron-7.0.1.tgz#6da2c07aa0513d3d156b5b027f317e0959261d43"
-  integrity sha1-baLAeqBRPT0Va1sCfzF+CVkmHUM=
+  version "7.2.4"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-7.2.4.tgz#9fc0446dae23ead897af8742470cb18da55c6ce9"
+  integrity sha512-Z+R692uTzXgP8AHrabE+kkrMlQJ6pnAYoINenwj9QSqaD2YbO8IuXU9DMCcUY0+VpA91ee09wFZJNUKYPMnCKg==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^12.0.12"
